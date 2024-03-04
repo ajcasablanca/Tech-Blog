@@ -1,0 +1,85 @@
+header, .post:not(:last-child) {
+  border-bottom: 1px solid #000000;
+  border-style: dashed;
+}
+.post:last-child {
+  border-bottom: 1px solid #000000;
+  border-style: dashed;
+}
+
+
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #1b89bc;
+  text-decoration: none;
+  font-size: 100%;
+}
+
+.no-button:hover {
+  color: #065b83;
+  text-decoration: underline;
+}
+
+.background {
+  background-color: silver;
+}
+
+.top-bar {
+  background-color: rgb(9, 77, 7);
+}
+
+.login {
+  color: black;
+  padding: 10px;
+}
+
+.welcome{
+  margin-left: 12px;
+}
+
+/* Select Interests Button */
+#dropdownMenuButton {
+  display: flex;
+  margin: 10px;
+  margin-inline: -280px;
+  
+}
+/* Select Gender Button */
+#dropdownMenu {
+  display: flex;
+  margin: 10px;
+  margin-inline: -295px;
+}
+
+#age_select {
+  display: flex;
+  margin: 10px;
+  margin-inline: -295px;
+}
+
+#location {
+  display: flex;
+  margin: 10px;
+  margin-inline: -310px;
+}
+
+#submit_btn {
+  display: flex;
+  margin: 10px;
+  margin-inline: -280px;
+  
+}
+
+.col-3 {
+  margin-top: 28px;
+  
+}
+
+.col-2{
+  margin-bottom: 10px;
+  margin-top: 25px
+}
+
