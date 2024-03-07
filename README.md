@@ -56,8 +56,8 @@ GitHub: [ajcasablanca](https://github.com/ajcasablanca)
 
 
 ## Live LInks
-1. The URL of the Deployed Heroku.
+1. [Heroku](https://git.heroku.com/secret-inlet-32925.git)
 
-2. The URL of the GitHub repository.
+2. [GitHub](https://ajcasablanca.github.io/Tech-Blog/)
 
-3. Demo
+3. [Demo] 
