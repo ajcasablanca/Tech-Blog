@@ -56,8 +56,8 @@ GitHub: [ajcasablanca](https://github.com/ajcasablanca)
 
 
 ## Live LInks
-1. [Heroku](https://git.heroku.com/secret-inlet-32925.git)
+1. [Heroku](https://secret-inlet-32925-909dfa80ce1f.herokuapp.com/)
 
 2. [GitHub](https://ajcasablanca.github.io/Tech-Blog/)
 
-3. [Demo] 
+3. [Demo](https://drive.google.com/file/d/1VDZ-TexDxvU37rqg2MXS9JG4xlIyBKJr/view?usp=sharing)
